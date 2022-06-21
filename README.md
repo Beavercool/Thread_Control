@@ -6,4 +6,4 @@
 
 ### result
 
-![result]Thread_Control/screen.png)
+![result](Thread_Control/screen.png)
